@@ -1,4 +1,7 @@
 # simplebank
+
+💰  https://simonof.github.io/simplebank/
+
 Minimalistic online banking application
 
 There are 4 users in bank

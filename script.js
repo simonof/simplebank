@@ -25,10 +25,10 @@ const account3 = {
 };
 
 const account4 = {
-  owner: "Fart Valeev",
+  owner: "Bill Gates",
   movements: [430, 1000, 700, 50, 90, -5, 7777777],
   interestRate: 1,
-  pin: 1488,
+  pin: 4444,
 };
 
 const accounts = [account1, account2, account3, account4];

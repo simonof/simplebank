@@ -2,7 +2,7 @@
 
 // BANKAPP
 
-    containerApp.style.opacity = 10;
+   
 // Data
 const account1 = {
   owner: "Simonov Evgeny",

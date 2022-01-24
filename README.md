@@ -1,5 +1,5 @@
 # simplebank
-[![Logo](/logo.png)](https://simonof.github.io/simplebanksite/img/head2.jpeg)
+![logo](https://simonof.github.io/simplebanksite/img/head2.jpeg)
 
 💰  https://simonof.github.io/simplebank/
 

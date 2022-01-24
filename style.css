@@ -90,7 +90,7 @@ nav {
   gap: 2rem;
 
   
-  opacity: 0;
+  opacity: 10;
   transition: all 1s;
 }
 

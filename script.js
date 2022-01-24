@@ -140,7 +140,12 @@ const updateUi = function (acc) {
 };
 // login
 
-let currentAccount;
+let currentAccount = {
+  owner: "Simonov Evgeny",
+  movements: [200, 450, -400, 3000, -650, -130, 70, 1300],
+  interestRate: 1.2, // %
+  pin: 1111,
+};
 btnLogin.addEventListener("click", function (event) {
   event.preventDefault();
   currentAccount = accounts.find(
